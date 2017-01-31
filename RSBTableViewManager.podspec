@@ -6,7 +6,7 @@ s.summary             = "iOS library for UITableView managing"
 s.homepage            = "https://bitbucket.org/rosberryteam/rsbtableviewmanager"
 s.license             = 'MIT'
 s.author              = { "Rosberry" => "info@rosberry.com" }
-s.source              = { :git => "https://github.com/rosberry/RSBTableViewManager", :tag => s.version }
+s.source              = { :git => "https://github.com/rosberry/RSBTableViewManager.git", :tag => s.version }
 s.platform            = :ios, '7.0'
 s.requires_arc        = true
 s.source_files        = 'RSBTableViewManager/*.{h,m}'
