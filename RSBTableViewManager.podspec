@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 s.name                = "RSBTableViewManager"
 s.version             = "1.0.0"
 s.summary             = "iOS library for UITableView managing"
-s.homepage            = "https://bitbucket.org/rosberryteam/rsbtableviewmanager"
+s.homepage            = "https://github.com/rosberry/RSBTableViewManager/"
 s.license             = 'MIT'
 s.author              = { "Rosberry" => "info@rosberry.com" }
 s.source              = { :git => "https://github.com/rosberry/RSBTableViewManager.git", :tag => s.version }
